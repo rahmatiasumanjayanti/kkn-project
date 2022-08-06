@@ -1,5 +1,16 @@
 # boilerplate
 
+## Before Using
+
+### Make sure to have node 14+ and yarn
+```bash
+# install yarn : https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
+$ npm install --global yarn
+
+# install node : 
+$ https://nodejs.org/en/
+```
+
 ## Build Setup
 
 ```bash
@@ -16,6 +27,9 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+
+
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
