@@ -1,14 +1,14 @@
 <template>
-  <div class="min-h-screen flex justify-center items-center w-full flex-col">
-    <Welcome />
+  <div class="flex font-montserrat justify-start items-start w-full flex-col bg-[#E6E0DD]">
+
     <Nuxt />
-    <Toast />
+    <Footer/>
   </div>
 </template>
 
 <script>
-import Toast from '~/components/Toast.vue'
-export default { components: { Toast } }
+ import Footer from '~/components/Footer.vue'
+ export default { components: { Footer } }
 </script>
 
 <style></style>

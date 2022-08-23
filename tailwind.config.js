@@ -40,12 +40,12 @@ module.exports = {
   ],
   daisyui: {
     styled: true,
-    themes: ['dark'],
+    themes: false,
     base: true,
     utils: true,
     logs: true,
     rtl: false,
     prefix: '',
-    darkTheme: 'dark',
+    darkTheme: false,
   },
 }
