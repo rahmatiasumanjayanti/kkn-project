@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-between w-full">
+    <div class="flex justify-between w-full border-b border-slate-900/10">
     <!-- Judul -->
 
         <h1 class="text-4xl text-[#353855] font-bold flex items-center">{{ Name }}</h1>

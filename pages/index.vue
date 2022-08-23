@@ -8,9 +8,8 @@
       <span class="text-lg font-semibold">Kecamatan Selo, Kabupaten Boyolali, Provinsi Jawa Tengah</span>
     </div>
     
-    
-    <div class="w-full h-96 px-10 py-10 text-white bg-[#353855] rounded-lg mt-10">
-      
+    <div class="w-full flex-col justify-center px-10 text-white rounded-lg mt-10">
+      <img src="../assets/citran2.jpeg" class="rounded-box object-fill" />
     </div>
 
     <div class="flex justify-center items-center w-full">
@@ -20,76 +19,85 @@
     </div>
 
     <div class="pt-8">
-      <p class="text-4xl py-10 text-[#353855] font-bold">Dukuh di Desa Jrakah</p>
+      <p class="text-4xl py-10 text-[#353855] font-bold">Dusun di Desa Jrakah</p>
 
       <!-- Carousel -->
       <div class="carousel carousel-center w-full space-x-7 rounded-box">
-
+<!-- bg-[url('../assets/citran.jpg')] -->
         <!-- Citran -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box">
-          <img src="https://placeimg.com/350/350/arch" class="rounded-box" />
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+        <div class="w-full h-80  ">
+          <img src="../assets/citran.jpg" class="w-full h-80" alt="">
+        </div>
+      
 
           <div class="flex flex-col gap-2 px-5 text-white">
-            <h3 class="text-xl font-semibold">Dukuh Citran</h3>
-            <p class="text-sm">Boyolali, Jawa Tengah, Indonesia</p>
-            <p class="font-light py-2 text-sm">tempora explicabo iusto laboriosam eos pariatur. 
-              Quae in expedita consequatur atque. Error vel beatae ducimus ipsa nesciunt laborum, minus quam.</p>
-            <nuxt-link to="/dusun-citran" class="text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</nuxt-link>
+            <h3 class="text-xl font-semibold">Dusun Citran</h3>
+            <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
+            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <nuxt-link to="/dusun-citran" class="flex text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
 
         <!-- Tumut -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box">
-          <img src="https://placeimg.com/350/350/arch" class="rounded-box" />
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+          <div class="w-full h-80  ">
+            <img src="../assets/tumut.jpg" class="w-full h-80" alt="">
+          </div>
+      
 
           <div class="flex flex-col gap-2 px-5 text-white">
-            <h3 class="text-xl font-semibold">Dukuh Tumut</h3>
-            <p class="text-sm">Boyolali, Jawa Tengah, Indonesia</p>
-            <p class="font-light py-2 text-sm">tempora explicabo iusto laboriosam eos pariatur. 
-              Quae in expedita consequatur atque. Error vel beatae ducimus ipsa nesciunt laborum, minus quam.</p>
-            <span class="text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</span>
+            <h3 class="text-xl font-semibold">Dusun Tumut</h3>
+            <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
+            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <nuxt-link to="/dusun-tumut" class="flex text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
 
         <!-- Tempel -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box">
-          <img src="https://placeimg.com/350/350/arch" class="rounded-box" />
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+          <div class="w-full h-80  ">
+            <img src="../assets/tempel.jpeg" class="w-full h-80" alt="">
+          </div>
+      
 
           <div class="flex flex-col gap-2 px-5 text-white">
-            <h3 class="text-xl font-semibold">Dukuh Tempel</h3>
-            <p class="text-sm">Boyolali, Jawa Tengah, Indonesia</p>
-            <p class="font-light py-2 text-sm">tempora explicabo iusto laboriosam eos pariatur. 
-              Quae in expedita consequatur atque. Error vel beatae ducimus ipsa nesciunt laborum, minus quam.</p>
-            <span class="text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</span>
+            <h3 class="text-xl font-semibold">Dusun Tempel</h3>
+            <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
+            <p class="font-light py-2 text-sm"> dinamakan 'Tempel' dikarenakan dusun ini menempel pada tebing-tebing tempat dusun ini berada.</p>
+            <nuxt-link to="/dusun-tempel" class="flex text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
 
         <!-- Jrakah -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box">
-          <img src="https://placeimg.com/350/350/arch" class="rounded-box" />
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+          <div class="w-full h-80  ">
+            <img src="../assets/jrakah-landing.jpg" class="w-full h-80" alt="">
+          </div>
+      
 
           <div class="flex flex-col gap-2 px-5 text-white">
-            <h3 class="text-xl font-semibold">Dukuh Jrakah</h3>
-            <p class="text-sm">Boyolali, Jawa Tengah, Indonesia</p>
-            <p class="font-light py-2 text-sm">tempora explicabo iusto laboriosam eos pariatur. 
-              Quae in expedita consequatur atque. Error vel beatae ducimus ipsa nesciunt laborum, minus quam.</p>
-            <span class="text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</span>
+            <h3 class="text-xl font-semibold">Dusun Jrakah</h3>
+            <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
+            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <nuxt-link to="/dusun-jrakah" class="flex text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
 
         <!-- Tosari -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box">
-          <img src="https://placeimg.com/350/350/arch" class="rounded-box" />
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+          <div class="w-full h-80  ">
+            <img src="../assets/tosari.jpg" class="w-full h-80" alt="">
+          </div>
+      
 
           <div class="flex flex-col gap-2 px-5 text-white">
-            <h3 class="text-xl font-semibold">Dukuh Tosari</h3>
-            <p class="text-sm">Boyolali, Jawa Tengah, Indonesia</p>
-            <p class="font-light py-2 text-sm">tempora explicabo iusto laboriosam eos pariatur. 
-              Quae in expedita consequatur atque. Error vel beatae ducimus ipsa nesciunt laborum, minus quam.</p>
-            <span class="text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</span>
+            <h3 class="text-xl font-semibold">Dusun Tosari</h3>
+            <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
+            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <nuxt-link to="/dusun-tosari" class="flex text-md pb-5 text-white cursor-pointer">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
-       
       </div>
 
     </div>

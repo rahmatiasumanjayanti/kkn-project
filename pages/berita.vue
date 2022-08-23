@@ -1,44 +1,43 @@
 <template>
-   <div class="hero flex justify-start py-10 w-full flex-col gap-8">
+   <div class="flex justify-start px-10 py-10 w-full flex-col gap-8">
         <Navbar
         name="Berita"
         />
 
-        <div class="w-full flex flex-col static" >
-            <img src="https://placeimg.com/850/450/arch" class="w-1/2 rounded-md items-center justify-center hover:opacity-100" />
-            <div class="absolute px-10 py-10 w-1/2">
-                <h1 class="text-3xl font-bold items-center text-white "> Diduga halaman rumah warga diakuisisi menjadi kolam ikan</h1>
-                <div class="flex text-white py-3 items-center">
-                   <p>Dusun Citran </p>
-                   <span class="px-2">|</span> 
-                   <span>12 Agustus 2022</span>
-                </div>
-            </div>
-        </div>
+        <div class="w-full flex flex-wrap gap-4">
+            <Berita
+            judul="Diduga halaman rumah warga diakuisisi menjadi kolam ikan"
+            dusun="Dusun Citran"
+            tanggal="12 Agustus 2022"
+            />
+            
+            <Berita
+            judul="Dusun Tumut adalah Dusun dengan Pria Terganteng"
+            dusun="Dusun Tumut"
+            tanggal="2 Agustus 2022"
+            />
 
-        <!-- Card -->
-        <div class="card w-1/2 bg-base-100 shadow-xl image-full">
-        <figure><img src="https://placeimg.com/800/325/arch" alt="Shoes" /></figure>
-            <div class="z-10 px-10 py-10 w-auto">
-                <h1 class="text-3xl font-bold items-center text-white "> Diduga halaman rumah warga diakuisisi menjadi kolam ikan</h1>
-                <div class="flex text-white py-3 items-center">
-                   <p>Dusun Citran </p>
-                   <span class="px-2">|</span> 
-                   <span>12 Agustus 2022</span>
-                </div>
-                <div class="card-actions justify-end">
-                    <button class="btn btn-primary">Baca Selengkapnya</button>
-                </div>
-            </div>
+            <Berita
+            judul="Warga Tosari Berbondong-bondong Masuk Islam"
+            dusun="Dusun Tosari"
+            tanggal="22 Agustus 2022"
+            />
+
+            <Berita
+            judul="Cerdaskan Anak Bangsa, Mahasiswa KKN Raih Keberkahan"
+            dusun="Dusun Tempel"
+            tanggal="5 Agustus 2022"
+            />
         </div>
         
     </div>
 </template>
 
 <script>
-export default {
-    layout: 'blog',
+import Berita from '~/components/Berita.vue'
 
+export default {
+    components: { Berita },
 }
 </script>
 
