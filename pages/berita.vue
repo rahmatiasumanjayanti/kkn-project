@@ -1,10 +1,10 @@
 <template>
-   <div class="flex justify-start px-10 py-10 w-full flex-col gap-8">
+   <div class="flex justify-start items-center px-10 py-10 w-full flex-col gap-8">
         <Navbar
         name="Berita"
         />
 
-        <div class="w-full flex flex-wrap gap-4">
+        <div class="w-full flex flex-wrap justify-center items-center gap-4">
             <Berita
             judul="Diduga halaman rumah warga diakuisisi menjadi kolam ikan"
             dusun="Dusun Citran"
@@ -24,6 +24,18 @@
             />
 
             <Berita
+            judul="Cerdaskan Anak Bangsa, Mahasiswa KKN Raih Keberkahan"
+            dusun="Dusun Tempel"
+            tanggal="5 Agustus 2022"
+            />
+
+              <Berita
+            judul="Cerdaskan Anak Bangsa, Mahasiswa KKN Raih Keberkahan"
+            dusun="Dusun Tempel"
+            tanggal="5 Agustus 2022"
+            />
+
+              <Berita
             judul="Cerdaskan Anak Bangsa, Mahasiswa KKN Raih Keberkahan"
             dusun="Dusun Tempel"
             tanggal="5 Agustus 2022"

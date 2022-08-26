@@ -1,64 +1,43 @@
 <template>
-    <div class="flex prose prose-2xl mx-auto  px-10 py-10 w-full flex-col gap-8">
+    <div class="flex prose prose-2xl mx-auto  px-10 py-10 w-full flex-col gap-4">
         <Navbar
-        name="Desa Jrakah"
+        name="Sejarah Desa"
         />
-
-        <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
-        </div>
         
         <article class=" w-full mx-auto">
             <div class="flex flex-col ">
-                <h3 class="font-bold text-4xl">Sejarah Desa</h3>
-                <span class="flex-col gap-4 text-xl text-justify">
+                <span class="flex-col text-xl text-justify">
                     <p>
                         Pada zaman sebelum kemerdekaan Republik Indonesia, Dusun Citran hanya berisikan 
                         perkebunan sayuran dan kebun teh yang bernama Sidodadi dan dikelola oleh Kolonial Belanda, 
                         kemudian ada seseorang yang bernama Citro (leluhur Dusun Citran) yang menetap dan tinggal di pemukiman 
                         yang sekarang menjadi Dukuh Citran, kemudian beliau meninggal dan pemukiman tersebut 
                         dinamakan Citran. 
-                        <nuxt-link to="/sejarah-detail"> <span class="cursor-pointer text-sky-600 ">Baca selengkapnya.</span> </nuxt-link>
+                    </p>
+
+                    <p>
+                        Terdapat unsur kesenian yang telah diwariskan oleh mbah Citro yaitu tari. Dalam segi bahasa, Citra 
+                        menurut warga sekitar bermakna (bagus). Artinya bagus untuk membentuk sebuah Dukuh, yang telah di pelopori 
+                        oleh mbah Citro dan mbah Gemi, Gemi berarti suatu hal yang ditentukan. <br>
+                    </p>
+
+                    <p>
+                        <b>Kenapa islam bisa menyebar di Citran? </b> <br>
+                        Dahulu ada orang yang bernama “Muhammad Parman” 
+                        yang telah berjasa menyebarkan agama islam di Citran sehingga sampai saat ini masyarakat Citran 
+                        menganut agama 100% islam. Terdapat 1 masjid yang dibangun agar lebih ramai.
+                        
+                    </p>
+                    <p>
+                        Pemukiman di desa Jrakah juga dijadikan sebagai tempat pengungsian bencana alam, khususnya bencana 
+                        gunung merapi, karena tercatat di desa Jrakah dan terutama di Citran sendiri pernah menjadi tempat 
+                        Pengungsian bencana alam tersebut.
                     </p>
                 </span>
             </div>
 
             <div class="flex flex-col ">
                 <h3 class="font-bold text-4xl">Kebudayaan dan Kesenian</h3>
-
-                <!-- Carousel -->
-                <div class="carousel w-full">
-                    <div id="slide1" class="carousel-item relative w-full">
-                        <img src="../assets/tumut-landing.jpg" class="w-full " />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide4" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide2" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div> 
-                    <div id="slide2" class="carousel-item relative w-full">
-                        <img src="https://placeimg.com/800/200/arch" class="w-full" />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide1" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide3" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div> 
-                    <div id="slide3" class="carousel-item relative w-full">
-                        <img src="https://placeimg.com/800/200/arch" class="w-full" />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide2" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide4" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div> 
-                    <div id="slide4" class="carousel-item relative w-full">
-                        <img src="https://placeimg.com/800/200/arch" class="w-full" />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide3" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide1" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Paragraph -->
                 <div class="flex-col gap-4 text-xl text-justify">
                     <p>
                         Terdapat cukup banyak unsur kesenian dan kebudayaan yang ada di Dusun Citran seperti Jandelan 
@@ -106,7 +85,5 @@ export default {
 </script>
 
 <style>
-.line{
-    text-decoration: none;
-}
+
 </style>

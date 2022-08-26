@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../assets/tempel.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">

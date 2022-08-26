@@ -17,8 +17,8 @@
     <!-- Jelajahi -->
     <div>
       <span class="footer-title text-lg">Jelajahi</span> 
-      <a class="link link-hover">Beranda</a> 
-      <a class="link link-hover">Berita</a> 
+      <nuxt-link to="/" class="link link-hover">Beranda</nuxt-link>
+      <nuxt-link to="/berita" class="link link-hover">Berita</nuxt-link> 
     </div> 
 
     <!-- Copyright -->
