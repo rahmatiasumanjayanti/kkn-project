@@ -8,8 +8,8 @@
       <span class="text-lg font-semibold">Kecamatan Selo, Kabupaten Boyolali, Provinsi Jawa Tengah</span>
     </div>
     
-    <div class="w-full flex justify-center px-10 text-white rounded-lg mt-10">
-      <img src="../assets/tumut-landing.jpg" class="rounded-box object-fill" />
+    <div class="w-full flex justify-center px-10 text-white rounded-sm mt-10">
+      <img src="../assets/tumut/tumut-landing.jpg" class="rounded-md object-fill" />
     </div>
 
     <div class="flex justify-center items-center w-full pt-6 ">
@@ -25,7 +25,7 @@
       <div class="carousel carousel-center w-full space-x-7 rounded-box">
 <!-- bg-[url('../assets/citran.jpg')] -->
         <!-- Citran -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
         <div class="w-full h-80  ">
           <img src="../assets/citran/citran.jpg" class="w-full h-80" alt="">
         </div>
@@ -40,24 +40,24 @@
         </div> 
 
         <!-- Tumut -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/tumut.jpeg" class="w-full h-80" alt="">
+            <img src="../assets/tumut/tumut4.jpg" class="w-full h-80" alt="">
           </div>
       
 
           <div class="flex flex-col gap-2 px-5 text-white">
             <h3 class="text-xl font-semibold">Dusun Tumut</h3>
             <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
-            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <p class="font-light py-2 text-sm"> Dusun Tumut terletak di lereng gunung Merbabu dengan luas kurang lebih 55Ha .</p>
             <nuxt-link to="/dusun-tumut" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold ">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
 
         <!-- Tempel -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/tempel.jpeg" class="w-full h-80" alt="">
+            <img src="../assets/tempel/tempel-landing.jpeg" class="w-full h-80" alt="">
           </div>
       
 
@@ -70,34 +70,50 @@
         </div> 
 
         <!-- Jrakah -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/jrakah-landing.jpg" class="w-full h-80" alt="">
+            <img src="../assets/ds-jrakah/jrakah-landing.jpg" class="w-full h-80" alt="">
           </div>
       
 
           <div class="flex flex-col gap-2 px-5 text-white">
             <h3 class="text-xl font-semibold">Dusun Jrakah</h3>
             <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
-            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <p class="font-light py-2 text-sm">Asal usul nama Jrakah berasal dari kata jangkah/menjangkah yang artinya melangkah</p>
             <nuxt-link to="/dusun-jrakah" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold">Baca lebih lanjut!</nuxt-link>
           </div>
         </div> 
 
         <!-- Tosari -->
-        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden">
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/tosari.jpg" class="w-full h-80" alt="">
+            <img src="../assets/tosari/tosari-landing.jpg" class="w-full h-80" alt="">
           </div>
       
 
           <div class="flex flex-col gap-2 px-5 text-white">
             <h3 class="text-xl font-semibold">Dusun Tosari</h3>
             <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
-            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <p class="font-light py-2 text-sm">Asal-usul nama Tosari yaitu To yang artinya mudah di toto, dan Sari berasal dari Patran. </p>
             <nuxt-link to="/dusun-tosari" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold">Baca lebih lanjut!</nuxt-link>
           </div>
+        </div>
+        
+        <!-- Bangun Rejo -->
+        <div class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
+          <div class="w-full h-80  ">
+            <img src="../assets/bangunrejo/bangunrejo.jpg" class="w-full h-80" alt="">
+          </div>
+      
+
+          <div class="flex flex-col gap-2 px-5 text-white">
+            <h3 class="text-xl font-semibold">Dusun Bangun Rejo</h3>
+            <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
+            <p class="font-light py-2 text-sm">Bangun Rejo yang terdiri dari kata Bangun yang berarti membangun dan kata Rejo bermakna ramai.</p>
+            <nuxt-link to="/dusun-bangunrejo" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold">Baca lebih lanjut!</nuxt-link>
+          </div>
         </div> 
+
       </div>
 
     </div>
@@ -107,26 +123,22 @@
         <p class="text-4xl py-10 text-[#353855] font-bold">Kekuatan Kami</p>
         <div class="grid grid-cols-2 gap-2 justify-center items-center">
 
-          <div class="card bg-[url('../assets/citran/citran2.jpeg')] bg-base-100 shadow-xl image-full h-96  bg-cover  flex flex-col">
-            <!-- <figure><img src="../assets/citran/citran.jpg" class="overflow-hidden" alt="Shoes" /></figure> -->
+          <div class="card bg-[url('../assets/tumut/tumut10.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-end">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div>
           
-          <div class="card bg-[url('../assets/tempel.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
-            <!-- <figure><img src="../assets/citran.jpg" class="overflow-hidden" alt="Shoes" /></figure> -->
+          <div class="card bg-[url('../assets/tempel/tempel.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-end items-end">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div>
           <!-- <div class="bg-[#353855] text-white rounded-xl px-10 py-10 h-96 flex flex-col justify-end">
             <p class="flex justify-end font-bold text-[1.875rem]">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div> -->
           
-          <div class="card bg-[url('../assets/tosari.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
-            <!-- <figure><img src="../assets/tosari.jpg" class="overflow-hidden" alt="Shoes" /></figure> -->
+          <div class="card bg-[url('../assets/bangunrejo/bangunrejo3.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-end">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div>
 
-          <div class="card bg-[url('../assets/citran/citran.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
-            <!-- <figure><img src="../assets/citran.jpg" class="h-full" alt="Shoes" /></figure> -->
+          <div class="card bg-[url('../assets/tosari/tosari-landing.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-start items-end">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div>
 

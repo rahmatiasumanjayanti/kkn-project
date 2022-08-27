@@ -4,95 +4,103 @@
         name="Desa Jrakah"
         />
 
+        <!-- Image -->
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../assets/ds-jrakah/jrakah1.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
+
+            <!-- Deskripsi -->
             <div class="flex flex-col ">
-                <h3 class="font-bold text-4xl">Sejarah Desa</h3>
-                <span class="flex-col gap-4 text-xl text-justify">
+                <h3 class="font-bold text-4xl text-[#353855]">Deskripsi</h3>
+                <span class="flex-col gap-2 text-xl text-justify">
                     <p>
-                        Pada zaman sebelum kemerdekaan Republik Indonesia, Dusun Citran hanya berisikan 
-                        perkebunan sayuran dan kebun teh yang bernama Sidodadi dan dikelola oleh Kolonial Belanda, 
-                        kemudian ada seseorang yang bernama Citro (leluhur Dusun Citran) yang menetap dan tinggal di pemukiman 
-                        yang sekarang menjadi Dukuh Citran, kemudian beliau meninggal dan pemukiman tersebut 
-                        dinamakan Citran. 
-                        <nuxt-link to="/sejarah-detail"> <span class="cursor-pointer text-sky-600 ">Baca selengkapnya.</span> </nuxt-link>
+                        Jrakah adalah <b>desa</b> di <b>kecamatan Selo</b>, <b>Boyolali</b>, <b>Jawa Tengah</b>, <b>Indonesia</b>.
+                        <br><br>
+                        Jrakah merupakan salah satu desa di lereng <b>gunung Merapi</b>, dan terletak di kaki <b>gunung Merbabu</b>. 
+                        Dari desa tersebut terlihat pemandangan indah, dimana dikelilingi oleh banyak gunung. Terlihat 
+                        di sebelah barat <b>gunung Sindoro</b> dan <b>gunung Sumbing</b>, di selatan <b>gunung Merapi</b>, dan di utara ada 
+                        <b>gunung Merbabu</b>. Sehingga wajar udara di desa tersebut juga sangat segar, dan mempesona saat 
+                        matahari terbenam. Jrakah masuk dalam taman nasional Merapi, merupakan bagian dari pariwisata 
+                        jawa tengah Solo-Selo-Borobudur. Sehingga selalu ramai wisatawan saat akhir pekan.
                     </p>
+                    <span class="text-sm">sumber: Wikipedia</span>
                 </span>
             </div>
 
-            <div class="flex flex-col ">
-                <h3 class="font-bold text-4xl">Kebudayaan dan Kesenian</h3>
 
-                <!-- Carousel -->
-                <div class="carousel w-full">
-                    <div id="slide1" class="carousel-item relative w-full">
-                        <img src="../assets/tumut-landing.jpg" class="w-full " />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide4" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide2" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div> 
-                    <div id="slide2" class="carousel-item relative w-full">
-                        <img src="https://placeimg.com/800/200/arch" class="w-full" />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide1" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide3" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div> 
-                    <div id="slide3" class="carousel-item relative w-full">
-                        <img src="https://placeimg.com/800/200/arch" class="w-full" />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide2" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide4" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div> 
-                    <div id="slide4" class="carousel-item relative w-full">
-                        <img src="https://placeimg.com/800/200/arch" class="w-full" />
-                        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                        <a href="#slide3" class="btn btn-circle text-white">❮</a> 
-                        <a href="#slide1" class="btn btn-circle text-white">❯</a>
-                        </div>
-                    </div>
-                </div>
+            <!-- Daftar Dusun -->
+            <div class="flex flex-col ">
+                <h3 class="font-bold text-4xl text-[#353855]">Daftar Dusun di Desa Jrakah</h3>
 
                 <!-- Paragraph -->
                 <div class="flex-col gap-4 text-xl text-justify">
-                    <p>
-                        Terdapat cukup banyak unsur kesenian dan kebudayaan yang ada di Dusun Citran seperti Jandelan 
-                        Baur yaitu sebuah pentas yang diikuti 40 orang dengan menampilkan gambaran karakter orang dan 
-                        tokoh yang juga menggambarkan karakter hewan. <br>
-                    </p>
-                    <p>
-                        Kemudian juga ada kesenian Kethek yang isinya adalah pertunjukan tari yang pemainnya 
-                        mengimitasi gerakan dari monyet, dan diiringi oleh Gamelan ataupun Gending gencaran pancer. 
-                        Kemudian ada Birowo yang sebagai hiburan masyarakat baik di acara 17-an maupun hajatan. 
-                        Kemudian di Dusun Citran juga terdapat Shalawatan Jawa, isinya adalah kesenian bernuansa islam 
-                        yang telah berkulturasi dengen kesenian tradisional jawa, di dalam 
-                        Shalawatan ini menggunakan intonasi suara yang khas dan syair lagam jawa. <br>
-                    </p>
-                    <p>
-                        Ada juga jandelan kreasi baru, Jedrok, Serong dan juga Wayang yang menceritakan tentang 
-                        kisah-kisah orang terdahulu. Pada Dusun Citran juga terdapat makanan khas yaitu nasi gunung yang 
-                        dibuat dari jagung dan beras.
-                    </p>
+                    <ul class="list-decimal">
+                        <li><nuxt-link class="no-underline hover:underline font-semibold" to="/dusun-jrakah">Dusun Jrakah</nuxt-link> </li>
+                        <li><nuxt-link class="no-underline hover:underline font-semibold" to="/dusun-citran">Dusun Citran</nuxt-link></li>
+                        <li><nuxt-link class="no-underline hover:underline font-semibold" to="/dusun-tempel">Dusun Tempel</nuxt-link></li>
+                        <li><nuxt-link class="no-underline hover:underline font-semibold" to="/dusun-tumut">Dusun Tumut</nuxt-link></li>
+                        <li><nuxt-link class="no-underline hover:underline font-semibold" to="/dusun-tosari">Dusun Tosari</nuxt-link></li>
+                        <li><nuxt-link class="no-underline hover:underline font-semibold" to="/dusun-tosari">Dusun Bangun Rejo</nuxt-link></li>
+                        <li>Dusun Jurang Jero</li>
+                        <li>Dusun Gesikan</li>
+                        <li>Dusun Patran</li>
+                        <li>Dusun Jarak Lor</li>
+                        <li>Dusun Jarak Kidul</li>
+                        <li>Dusun Sepi</li>
+                        <li>Dusun Kajor</li>
+                    </ul>
                 </div>
             </div>
+            
 
-            <div class="flex flex-col ">
-                <h3 class="font-bold">Warga Dusun Citran</h3>
-                <span class="flex-col gap-4 text-xl text-justify">
-                    <p>
-
-                    </p>
-                    <p>
-                        
-                    </p>
-                    Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste culpa quam nam deserunt minus. Vel iste similique aliquam iusto hic. ipsum dolor sit amet consectetur adipisicing elit. Architecto fuga praesentium itaque provident qui eos aspernatur cupiditate vel iusto? Quas expedita pariatur, quibusdam facilis perferendis mollitia laboriosam deleniti officia quo corporis illum quia? Delectus earum recusandae excepturi accusantium deserunt possimus fugit tempora similique cupiditate, beatae, reiciendis provident? Non, quod veniam!</span>
+            <!-- Galeri kotak -->
+            <div class="flex flex-col pt-12 ">
+                <span class="font-bold text-4xl text-[#353855]">Galeri</span>
+                <section class="overflow-hidden text-gray-700 ">
+                    <div class="container px-5 py-2 mx-auto lg:pt-2 lg:px-2">
+                        <div class="flex flex-wrap -m-1 md:-m-2">
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/citran/citran-card.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/tumut/tumut-card.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="/../assets/tosari/tosari-card.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/ds-jrakah/jrakah2.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/tempel/tempel4.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/bangunrejo/bangunrejo2.jpg">
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </section>
             </div>
-
         </article>
     </div>
 </template>

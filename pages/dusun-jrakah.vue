@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../assets/ds-jrakah/jrakah3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -13,51 +13,84 @@
                 <h3 class="font-bold text-4xl">Tentang Dusun Jrakah</h3>
                 <span class="flex-col gap-4 text-xl text-justify">
                     <p>
-                        Warga Dusun Jrakah mayoritas agamanya adalah agama Islam dan untuk profesi warganya adalah 
-                        petani. Jumlah Penduduk yang berada di Dusun Jrakah sekitar 140an orang. <br>
-                    </p>
-                    <p>
-                        Dusun Jrakah dinamakan 'Jrakah' dikarenakan dusun ini menempel pada tebing-tebing maka dinamakan dukuh Jrakah yang sesuai dengan lokasi 
-                        maupun tempat dusun itu berada. Dusun Jrakah juga berada di sebelah dusun bentrokan namun, 
-                        untuk dusun bentrokan sendiri masuk pada kabupaten magelang dan untuk dusun Jrakah masuk pada 
-                        kabupaten Boyolali. <br>
+                        Asal usul nama <i>Jrakah</i> berasal dari kata jangkah/menjangkah yang artinya melangkah. 
+                        Di Dusun ini terdapat balai desa jrakah. Di dusun ini pula terdapat sekolah dasar yaitu SDN 2 Jrakah. Di dusun ini pula terdapat pasar jrakah yang beroperasi setiap Wage dan Legi. Lokasi Dusun Jrakah cukup stategis karena terbelah oleh jalan raya Magelang - Boyolali. Letak geografis Dusun Jrakah diapit oleh dua gunung yaitu merapi dan merbabu. Selain itu dari dusun ini dapat terlihat gunung Sindoro dan gunung Sumbing di sebelah barat. <br>
                     </p>
                 </span>
             </div>
 
-            <div class="flex flex-col ">
-                <h3 class="font-bold text-4xl">Kebudayaan dan Kesenian</h3>
-                <div class="flex-col gap-4 text-xl text-justify">
-                    <ul>
-                        <li>Dusun Jrakah biasanya menampilkan kesenian Reog</li> 
-                    </ul>
-                </div>
-            </div>
-
+            <!-- potensi -->
             <div class="flex flex-col ">
                 <h3 class="font-bold">Hasil Bumi</h3>
                 <span class="flex-col gap-4 text-xl text-justify">
                     <p>
                         Hasil Bumi yang biasanya di panen di dusun Jrakah adalah:<br>
                         <ul>
-                            <li>Daun Bawang</li>
+                            <li>Tomat</li>
+                            <li>Sawi</li>
                             <li>Brokoli</li>
-                            <li>Kembang Kol</li>
+                            <li>Cabai</li>
                             <li>dll</li>
                         </ul>
                     </p>
                 </span>
             </div>
 
-            <div class="flex flex-col ">
-                <h3 class="font-bold">Potensi Wisata Jrakah</h3>
-                <span class="flex-col gap-4 text-xl text-justify">
-                    <ul>
-                        <li>Potensi Wisata di Dusun Jrakah adalah jalur pendakian menuju gunung Merbabu.</li> 
-                    </ul>
-                </span>
-            </div>
+            <!-- Galeri kotak -->
+            <div class="flex flex-col pt-12 ">
+                <span class="font-bold text-4xl text-[#353855]">Galeri</span>
+                <section class="overflow-hidden text-gray-700 ">
+                    <div class="container px-5 py-2 mx-auto lg:pt-2 lg:px-2">
+                        <div class="flex flex-wrap -m-1 md:-m-2">
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/ds-jrakah/jrakah1.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/ds-jrakah/jrakah2.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="/../assets/ds-jrakah/jrakah-landing.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/ds-jrakah/jrakah4.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/ds-jrakah/jrakah3.jpg">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-1/3">
+                            <div class="w-full p-1 md:p-2">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                src="../assets/ds-jrakah/jrakah5.jpg">
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </section>
 
+                <!-- <nuxt-link to="/galeri">
+                <div class="w-full flex justify-end gap-2 items-center py-5 cursor-pointer hover:text-slate-500">
+                    <span class="text-sm font-semibold ">Lihat Lebih banyak</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+                    </svg>
+                </div>
+                </nuxt-link> -->
+            </div>
         </article>
     </div>
 </template>

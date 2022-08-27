@@ -4,7 +4,7 @@
         name="Berita"
         />
 
-        <div class="w-full flex flex-wrap justify-center items-center gap-4">
+        <div class="w-full grid grid-cols-3 grid-rows-3 justify-center items-center gap-8">
             <Berita
             judul="Diduga halaman rumah warga diakuisisi menjadi kolam ikan"
             dusun="Dusun Citran"

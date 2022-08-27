@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../assets/tumut/tumut-landing.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -36,49 +36,113 @@
 
                 <span class="flex-col gap-4 text-xl text-justify">
                     <p>
-                        Warga Dusun Tempel mayoritas agamanya adalah agama Islam dan untuk profesi warganya adalah 
-                        petani. Jumlah Penduduk yang berada di Dusun Tempel sekitar 140an orang. <br>
-                    </p>
-                    <p>
-                        Dusun Tempel dinamakan 'Tempel' dikarenakan dusun ini menempel pada tebing-tebing maka dinamakan dukuh tempel yang sesuai dengan lokasi 
-                        maupun tempat dusun itu berada. Dusun Tempel juga berada di sebelah dusun bentrokan namun, 
-                        untuk dusun bentrokan sendiri masuk pada kabupaten magelang dan untuk dusun Tempel masuk pada 
-                        kabupaten Boyolali. <br>
+                        Terletak di lereng gunung Merbabu dengan luas kurang lebih 55Ha yang bertepatan di Desa 
+                        Jrakah kecamatan Selo, Kabupaten Boyolali, Provinsi Jawa Tengah. Dusun ini kaya akan Sumber Daya Alamnya. 
+                        Di dukuh ini juga mempunyai kelembagaan seperti Karang Taruna dan lain-lain. Memiliki satu Masjid, satu Gereja 
+                        dan satu pemakaman umum. Masyarakat Dusun Tumut mayoritasnya bekerja sebagai petani.
                     </p>
                 </span>
             </div>
 
-            <div class="flex flex-col ">
-                <h3 class="font-bold text-4xl">Kebudayaan dan Kesenian</h3>
+            <div class="flex flex-col">
+                <h3 class="font-bold text-4xl">Sumber Daya Alam</h3>
                 <div class="flex-col gap-4 text-xl text-justify">
-                    <ul>
-                        <li>Dusun Tempel biasanya menampilkan kesenian Reog</li> 
-                    </ul>
+
+                    <div class="flex-col gap-1">
+                        <span class="font-semibold text-2xl">Pertanian</span>
+                        <ul>
+                            <li>Warga Tumut menanam sayuran seperti sawi, wortel, adas, daun bawang, tembakau dll</li> 
+                            <li><i>Highlight</i> dari pertanian di Dusun ini ialah <b>tembakau</b></li>
+                        </ul>
+                    </div>
+
+                    <div class="flex-col">  
+                        <span class="font-semibold text-2xl">Peternakan</span>
+                        <ul>
+                            <li>tiap di rumah warga tumut memiliki setidaknya 1 Sapi, juga Ayam atau Kambing</li> 
+                        </ul>
+                    </div>
+
+                    <div>
+                        <span class="font-semibold text-2xl">Kualitas Lingkungan</span>
+                        <ul>
+                            <li>Masih asri hanya saja di berapa titik menjadi tempat pembuangan sampah hasil penjualan yang tidak laku</li> 
+                        </ul>   
+                    </div>
+                    
                 </div>
             </div>
 
             <div class="flex flex-col ">
-                <h3 class="font-bold">Hasil Bumi</h3>
+                <h3 class="font-bold">Kesenian dan Kebudayaan</h3>
                 <span class="flex-col gap-4 text-xl text-justify">
                     <p>
-                        Hasil Bumi yang biasanya di panen di dusun Tempel adalah:<br>
+                        Kesenian khas Dusun Tumut adalah:<br>
                         <ul>
-                            <li>Daun Bawang</li>
-                            <li>Brokoli</li>
-                            <li>Kembang Kol</li>
-                            <li>dll</li>
+                            <li>Topeng Ireng</li>
+                            <li>Reog</li>
+                            <li>Jaran</li>
+                            <li>Ketoprak</li>
+                            <li>Wayang Orang (tapi sudah lama mati atau sudah tidak dimainkan lagi)</li>
                         </ul>
                     </p>
                 </span>
             </div>
 
-            <div class="flex flex-col ">
-                <h3 class="font-bold">Potensi Wisata Tempel</h3>
-                <span class="flex-col gap-4 text-xl text-justify">
-                    <ul>
-                        <li>Potensi Wisata di Dusun Tempel adalah jalur pendakian menuju gunung Merbabu.</li> 
-                    </ul>
-                </span>
+             <!-- Galeri kotak -->
+            <div class="flex flex-col pt-12 ">
+                <span class="font-bold text-4xl text-[#353855]">Galeri</span>
+                <section class="overflow-hidden text-gray-700 ">
+                    <div class="container px-5 py-2 mx-auto lg:pt-2 lg:px-2">
+                        <div class="flex flex-wrap -m-1 md:-m-2">
+                            <div class="flex flex-wrap w-1/3">
+                                <div class="w-full p-1 md:p-2">
+                                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                    src="../assets/tumut/tumut8.jpg">
+                                </div>
+                            </div>
+                            <div class="flex flex-wrap w-1/3">
+                                <div class="w-full p-1 md:p-2">
+                                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                    src="../assets/tumut/tumut10.jpg">
+                                </div>
+                            </div>
+                            <div class="flex flex-wrap w-1/3">
+                                <div class="w-full p-1 md:p-2">
+                                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                    src="/../assets/tumut/tumut7.jpg">
+                                </div>
+                            </div>
+                            <div class="flex flex-wrap w-1/3">
+                                <div class="w-full p-1 md:p-2">
+                                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                    src="../assets/tumut/tumut4.jpg">
+                                </div>
+                            </div>
+                            <div class="flex flex-wrap w-1/3">
+                                <div class="w-full p-1 md:p-2">
+                                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                    src="../assets/tumut/tumut6.jpg">
+                                </div>
+                            </div>
+                            <div class="flex flex-wrap w-1/3">
+                                <div class="w-full p-1 md:p-2">
+                                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+                                    src="../assets/tumut/tumut5.jpg">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- <nuxt-link to="/galeri">
+                <div class="w-full flex justify-end gap-2 items-center py-5 cursor-pointer hover:text-slate-500">
+                    <span class="text-sm font-semibold ">Lihat Lebih banyak</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+                    </svg>
+                </div>
+                </nuxt-link> -->
             </div>
 
         </article>
