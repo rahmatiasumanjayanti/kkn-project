@@ -5,7 +5,7 @@
         />
 
         <div class="w-full h-full flex flex-col justify-center items-center rounded-lg overflow-hidden">
-            <img src="../assets/berita/yatiman.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+            <img src="../static/berita/yatiman.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
         </div>
         <div>
             
@@ -41,7 +41,7 @@
                     </p>
 
                     <div class="w-full h-full flex flex-col justify-center items-center rounded-lg overflow-hidden">
-                        <img src="../assets/berita/yatiman2.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+                        <img src="../static/berita/yatiman2.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
                     </div>
 
                     <p class="indent-10">

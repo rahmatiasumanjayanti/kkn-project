@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex flex-col justify-center items-center h-full rounded-lg overflow-hidden">
-            <img src="../assets/berita/karnaval-landing.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+            <img src="../static/berita/karnaval-landing.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
         </div>
         <div>
             
@@ -36,7 +36,7 @@
                     </p>
 
                     <div class="w-full flex flex-col justify-center items-center h-full rounded-lg overflow-hidden">
-                        <img src="../assets/berita/karnaval-satu.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+                        <img src="../static/berita/karnaval-satu.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
                     </div>
 
                     <p class="indent-10">
@@ -58,7 +58,7 @@
                     </p>
 
                     <div class="w-full flex flex-col justify-center items-center h-full rounded-lg overflow-hidden">
-                        <img src="../assets/berita/karnaval-dua.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+                        <img src="../static/berita/karnaval-dua.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
                     </div>
 
                     <p class="indent-10">

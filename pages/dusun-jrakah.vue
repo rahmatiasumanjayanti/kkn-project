@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/ds-jrakah/jrakah3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../static/ds-jrakah/jrakah3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -45,37 +45,37 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/ds-jrakah/jrakah1.jpg">
+                                src="../static/ds-jrakah/jrakah1.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/ds-jrakah/jrakah2.jpg">
+                                src="../static/ds-jrakah/jrakah2.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="/../assets/ds-jrakah/jrakah-landing.jpg">
+                                src="/../static/ds-jrakah/jrakah-landing.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/ds-jrakah/jrakah4.jpg">
+                                src="../static/ds-jrakah/jrakah4.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/ds-jrakah/jrakah3.jpg">
+                                src="../static/ds-jrakah/jrakah3.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/ds-jrakah/jrakah5.jpg">
+                                src="../static/ds-jrakah/jrakah5.jpg">
                             </div>
                         </div>
                         </div>

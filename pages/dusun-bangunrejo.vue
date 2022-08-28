@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/bangunrejo/bangunrejo3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../static/bangunrejo/bangunrejo3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -78,37 +78,37 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/bangunrejo/bangunrejo.jpg">
+                                    src="../static/bangunrejo/bangunrejo.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../assets/bangunrejo/bangunrejo2.jpg">
+                                     src="../static/bangunrejo/bangunrejo2.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../assets/bangunrejo/bangunrejo4.jpg">
+                                     src="../static/bangunrejo/bangunrejo4.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../assets/bangunrejo/bangunrejo5.jpg">
+                                     src="../static/bangunrejo/bangunrejo5.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../assets/bangunrejo/bangunrejo8.jpg">
+                                     src="../static/bangunrejo/bangunrejo8.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../assets/bangunrejo/bangunrejo7.jpg">
+                                     src="../static/bangunrejo/bangunrejo7.jpg">
                                 </div>
                             </div>
                         </div>

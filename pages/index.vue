@@ -9,7 +9,7 @@
     </div>
     
     <div class="w-full flex justify-center px-10 text-white rounded-sm mt-10">
-      <img src="../assets/tumut/tumut-landing.jpg" class="rounded-md object-fill" />
+      <img src="../static/tumut/tumut-landing.jpg" class="rounded-md object-fill" />
     </div>
 
     <div class="flex justify-center items-center w-full pt-6 ">
@@ -27,7 +27,7 @@
         <!-- Citran -->
         <nuxt-link to="/dusun-citran" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
         <div class="w-full h-80  ">
-          <img src="../assets/citran/citran.jpg" class="w-full h-80" alt="">
+          <img src="../static/citran/citran.jpg" class="w-full h-80" alt="">
         </div>
       
 
@@ -42,7 +42,7 @@
         <!-- Tumut -->
         <nuxt-link to="/dusun-tumut" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/tumut/tumut4.jpg" class="w-full h-80" alt="">
+            <img src="../static/tumut/tumut4.jpg" class="w-full h-80" alt="">
           </div>
       
 
@@ -57,7 +57,7 @@
         <!-- Tempel -->
         <nuxt-link to="/dusun-tempel" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/tempel/tempel-landing.jpeg" class="w-full h-80" alt="">
+            <img src="../static/tempel/tempel-landing.jpeg" class="w-full h-80" alt="">
           </div>
       
 
@@ -72,7 +72,7 @@
         <!-- Jrakah -->
         <nuxt-link to="/dusun-jrakah" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/ds-jrakah/jrakah-landing.jpg" class="w-full h-80" alt="">
+            <img src="../static/ds-jrakah/jrakah-landing.jpg" class="w-full h-80" alt="">
           </div>
       
 
@@ -87,7 +87,7 @@
         <!-- Tosari -->
         <nuxt-link to="/dusun-tosari" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/tosari/tosari-landing.jpg" class="w-full h-80" alt="">
+            <img src="../static/tosari/tosari-landing.jpg" class="w-full h-80" alt="">
           </div>
       
 
@@ -102,7 +102,7 @@
         <!-- Bangun Rejo -->
         <nuxt-link to="/dusun-bangunrejo" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
-            <img src="../assets/bangunrejo/bangunrejo.jpg" class="w-full h-80" alt="">
+            <img src="../static/bangunrejo/bangunrejo.jpg" class="w-full h-80" alt="">
           </div>
       
         
@@ -128,23 +128,23 @@
         <p class="text-4xl py-10 text-[#353855] font-bold">Kekuatan Kami</p>
         <div class="grid grid-cols-2 gap-2 justify-center items-center">
 
-          <div class="card bg-[url('../assets/citran/kesenian3.jpeg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
+          <div class="card bg-[url('../static/citran/kesenian3.jpeg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-start">Kami memiliki <br/> semangat gotong <br> 
             royong yang sangat <br>tinggi</p> 
           </div>
           
-          <div class="card bg-[url('../assets/tempel/tempel.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
+          <div class="card bg-[url('../static/tempel/tempel.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-end items-end">Masyarakat yang taat <br> beragama,  tekun dan <br> berbudi pekerti</p> 
           </div>
           <!-- <div class="bg-[#353855] text-white rounded-xl px-10 py-10 h-96 flex flex-col justify-end">
             <p class="flex justify-end font-bold text-[1.875rem]">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div> -->
           
-          <div class="card bg-[url('../assets/bangunrejo/bangunrejo3.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
+          <div class="card bg-[url('../static/bangunrejo/bangunrejo3.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-end">Keindahan suasana dan <br>penampakan alam yang <br> menyejukkan mata</p> 
           </div>
 
-          <div class="card bg-[url('../assets/tumut/tumut10.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
+          <div class="card bg-[url('../static/tumut/tumut10.jpg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-start items-end">Sumber daya alam yang <br> melimpah menjadi <br> keunggulan desa kami</p> 
           </div>
 

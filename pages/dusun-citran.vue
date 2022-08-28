@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../static/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -124,37 +124,37 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/citran/citran8.jpg">
+                                    src="../static/citran/citran8.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/citran/citran10.jpg">
+                                    src="../static/citran/citran10.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/../assets/citran/citran7.jpg">
+                                    src="/../static/citran/citran7.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/citran/citran4.jpg">
+                                    src="../static/citran/citran4.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/citran/citran6.jpg">
+                                    src="../static/citran/citran6.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/citran/citran5.jpg">
+                                    src="../static/citran/citran5.jpg">
                                 </div>
                             </div>
                         </div>

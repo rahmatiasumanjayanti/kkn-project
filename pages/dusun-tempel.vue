@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/tempel/tempel4.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../static/tempel/tempel4.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -70,37 +70,37 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/tempel/tempel9.jpg">
+                                src="../static/tempel/tempel9.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/tempel/tempel2.jpeg">
+                                src="../static/tempel/tempel2.jpeg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="/../assets/tempel/tempel3.jpg">
+                                src="/../static/tempel/tempel3.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/tempel/tempel4.jpg">
+                                src="../static/tempel/tempel4.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/tempel/tempel6.jpg">
+                                src="../static/tempel/tempel6.jpg">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/tempel/tempel5.jpg">
+                                src="../static/tempel/tempel5.jpg">
                             </div>
                         </div>
                         </div>

@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../assets/tumut/tumut-landing.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="../static/tumut/tumut-landing.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -98,37 +98,37 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/tumut/tumut8.jpg">
+                                    src="../static/tumut/tumut8.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/tumut/tumut10.jpg">
+                                    src="../static/tumut/tumut10.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/../assets/tumut/tumut7.jpg">
+                                    src="/../static/tumut/tumut7.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/tumut/tumut4.jpg">
+                                    src="../static/tumut/tumut4.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/tumut/tumut6.jpg">
+                                    src="../static/tumut/tumut6.jpg">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../assets/tumut/tumut5.jpg">
+                                    src="../static/tumut/tumut5.jpg">
                                 </div>
                             </div>
                         </div>
