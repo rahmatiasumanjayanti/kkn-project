@@ -128,7 +128,7 @@
         <p class="text-4xl py-10 text-[#353855] font-bold">Kekuatan Kami</p>
         <div class="grid grid-cols-2 gap-2 justify-center items-center">
 
-          <div class="card bg-[url('../static/citran/kesenian3.jpeg')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
+          <div class="card bg-[url('https://ik.imagekit.io/azv7d8ojn/kesenian3_UBbnnXDLU.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661688202298')] bg-cover bg-base-100 shadow-xl image-full h-96 flex flex-col">
             <p class="z-10 px-10 py-10 font-bold text-[1.875rem] text-white flex justify-start">Kami memiliki <br/> semangat gotong <br> 
             royong yang sangat <br>tinggi</p> 
           </div>
