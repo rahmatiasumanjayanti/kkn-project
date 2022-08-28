@@ -23,7 +23,7 @@
 
       <!-- Carousel -->
       <div class="carousel carousel-center w-full space-x-7 rounded-box">
-<!-- bg-[url('../assets/citran.jpg')] -->
+
         <!-- Citran -->
         <nuxt-link to="/dusun-citran" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
         <div class="w-full h-80  ">
