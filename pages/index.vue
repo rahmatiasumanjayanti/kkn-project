@@ -34,7 +34,7 @@
           <div class="flex flex-col gap-2 px-5 text-white">
             <h3 class="text-xl font-semibold">Dusun Citran</h3>
             <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
-            <p class="font-light py-2 text-sm"> terletak diantara 2 gunung yaitu gunung Merapi dan Gunung Merbabu.</p>
+            <p class="font-light py-2 text-sm"> Citra menurut warga sekitar bermakna (bagus) artinya bagus untuk membentuk sebuah Dusun.</p>
             <nuxt-link to="/dusun-citran" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold">Baca lebih lanjut!</nuxt-link>
           </div>
         </nuxt-link> 
@@ -49,11 +49,11 @@
           <div class="flex flex-col gap-2 px-5 text-white">
             <h3 class="text-xl font-semibold">Dusun Tumut</h3>
             <p class="text-sm">Jrakah, Boyolali, Jawa Tengah</p>
-            <p class="font-light py-2 text-sm"> Dusun Tumut terletak di lereng gunung Merbabu dengan luas kurang lebih 55Ha .</p>
+            <p class="font-light py-2 text-sm"> Dusun Tumut terletak di lereng gunung Merbabu dengan luas kurang lebih 55Ha.</p>
             <nuxt-link to="/dusun-tumut" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold ">Baca lebih lanjut!</nuxt-link>
           </div>
         </nuxt-link> 
-
+        
         <!-- Tempel -->
         <nuxt-link to="/dusun-tempel" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
           <div class="w-full h-80  ">
