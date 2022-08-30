@@ -10,7 +10,7 @@
           <li class="block h-full">
             <nuxt-link to="/berita-yatiman">
             <Berita
-            :Gambar="'https://ik.imagekit.io/azv7d8ojn/yatiman_OvyUef0mY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661675123346'"
+            :Gambar="'https://ik.imagekit.io/azv7d8ojn/static/berita/yatiman_qR6xm2M3_m.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838107796'"
             judul="Tradisi Santunan Anak Yatim Desa Jrakah, Boyolali dalam rangka Memperingati 10 Muharram"
             dusun="Dusun Tumut"
             tanggal="8 Agustus 2022"
@@ -22,7 +22,7 @@
           <li class="block h-full">
             <nuxt-link to="/berita-karnaval">
             <Berita
-            :Gambar="'https://ik.imagekit.io/azv7d8ojn/karnaval-landing_43d2BYNJeX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661675122473'"
+            :Gambar="'https://ik.imagekit.io/azv7d8ojn/static/berita/karnaval-landing_CjTX06Nh0m.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838116948'"
             judul="Semarak Karnaval Tahunan Desa Jrakah  Untuk memperingati HUT RI-77"
             dusun="Desa Jrakah"
             tanggal="24 Agustus 2022"
@@ -35,7 +35,7 @@
           <li class="block h-full">
             <nuxt-link to="/berita-17an">
             <Berita
-            :Gambar="'https://ik.imagekit.io/azv7d8ojn/17an_dUEvH-Zeq.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661675122207'"
+            :Gambar="'https://ik.imagekit.io/azv7d8ojn/static/berita/17an_LIhZuTx-e.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838108826'"
             judul="Antusias Warga dalam Perlombaan  17 Agustusan Desa  Jrakah"
             dusun="Dusun Jrakah"
             tanggal="20 Agustus 2022"
