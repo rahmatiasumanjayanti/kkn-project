@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/tumut/tumut-landing.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut-landing_SCdIL12wRo.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838160355" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -98,37 +98,37 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tumut/tumut8.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut8_EbvehPtF7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838158857">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tumut/tumut10.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut3_UzOiqQoOMS.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838110279">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/../static/tumut/tumut7.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut7_7XjzIcNdm.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838173091">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tumut/tumut4.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut4_UqGeGEw6a.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838199985">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tumut/tumut6.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut4_UqGeGEw6a.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838199985">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tumut/tumut5.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut5_k9wS-cmGhz.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838177381">
                                 </div>
                             </div>
                         </div>

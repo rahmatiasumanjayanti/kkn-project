@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/tosari/tosari.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/tosari/tosari_ozlligLV-g.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838159178" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -41,13 +41,13 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tosari/tosari.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tosari/tosari_ozlligLV-g.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838159178">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/tosari/tosari-landing.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tosari/tosari-landing_TKRyms7N1t.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838173190">
                                 </div>
                             </div>
                             <!-- <div class="flex flex-wrap w-1/3">

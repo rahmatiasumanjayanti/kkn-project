@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/ds-jrakah/jrakah3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah3_V-p5MNqK8.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838183788" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -45,37 +45,37 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/ds-jrakah/jrakah1.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah1_KIm-gPE0s.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838177937">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/ds-jrakah/jrakah2.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah2_bWKhIYh35.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838187287">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="/../static/ds-jrakah/jrakah-landing.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah-landing_A1NGUmoA3h.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838159374">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/ds-jrakah/jrakah4.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah4_m6Yz5n6Nq.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838179023">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/ds-jrakah/jrakah3.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah3_V-p5MNqK8.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838183788">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/ds-jrakah/jrakah5.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah5_DCOn19H_6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838177114">
                             </div>
                         </div>
                         </div>

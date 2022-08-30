@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/citran/citran.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran_igcbiyA9gK.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838192389" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -124,37 +124,37 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/citran/citran8.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran-card_uV7hxpsNrk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838141995">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/citran/citran10.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran10_ZtaZ1GAQb.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838191679">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="/../static/citran/citran7.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran9_p_UTSRmqx.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838183812">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/citran/citran4.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran4_WMNGj5l9F.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838159168">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/citran/citran6.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran5_6S1eR7j-b.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838182607">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/citran/citran5.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/citran/kesenian_HQH1OzmOlU.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838110455">
                                 </div>
                             </div>
                         </div>

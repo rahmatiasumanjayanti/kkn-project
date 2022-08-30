@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/bangunrejo/bangunrejo3.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo3_9N8clYSRoT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838113827" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
 
         
@@ -78,37 +78,37 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="../static/bangunrejo/bangunrejo.jpg">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo_kV1sBBRNJY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838108474">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../static/bangunrejo/bangunrejo2.jpg">
+                                     src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo2_6iKN3Nyqr.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838195439">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../static/bangunrejo/bangunrejo4.jpg">
+                                     src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo4_MgFsiVNKGI.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838115718">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../static/bangunrejo/bangunrejo5.jpg">
+                                     src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo5_imV4GykV71.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838107415">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../static/bangunrejo/bangunrejo8.jpg">
+                                     src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo8_W7vI-NVyGn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838129841">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                     src="../static/bangunrejo/bangunrejo7.jpg">
+                                     src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo7_bWd3pHlqD.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838104859">
                                 </div>
                             </div>
                         </div>

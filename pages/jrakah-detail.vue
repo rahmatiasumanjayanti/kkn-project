@@ -6,7 +6,7 @@
 
         <!-- Image -->
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/ds-jrakah/jrakah1.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah1_KIm-gPE0s.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838177937" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -64,13 +64,13 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/citran/citran-card.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran-card_uV7hxpsNrk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838141995">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tumut/tumut-card.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut-card_i9iDqjLKp.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838187365">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
@@ -82,19 +82,19 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/ds-jrakah/jrakah2.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/ds-jrakah/jrakah2_bWKhIYh35.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838187287">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tempel/tempel4.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/tempel4_uPz3Zxc-q.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838254042">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/bangunrejo/bangunrejo2.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/bangunrejo/bangunrejo2_6iKN3Nyqr.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838195439">
                             </div>
                         </div>
                         </div>

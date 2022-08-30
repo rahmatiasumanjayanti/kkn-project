@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex justify-center items-center h-96 rounded-lg overflow-hidden">
-            <img src="../static/tempel/tempel4.jpg" class="h-96 w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/tempel/tempel4_uPz3Zxc-q.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838254042" class="h-96 w-full rounded-lg object-cover" alt="">
         </div>
         
         <article class=" w-full mx-auto">
@@ -70,37 +70,37 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tempel/tempel9.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/tempel9_hu3VkhF3d.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838249364">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tempel/tempel2.jpeg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/Gambar_PNG_W-X8jtezB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661877987627">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="/../static/tempel/tempel3.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/tempel3_MLTDw0-Dx.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838182455">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tempel/tempel4.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/IMG_0844_9X-QgT3Gy.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661876932686">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tempel/tempel6.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/tempel2_ARCT_E9rS.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838254142">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../static/tempel/tempel5.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tempel/tempel4_uPz3Zxc-q.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838254042">
                             </div>
                         </div>
                         </div>

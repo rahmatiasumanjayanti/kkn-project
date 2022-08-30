@@ -5,7 +5,7 @@
         />
 
         <div class="w-full flex flex-col justify-center items-center h-full rounded-lg overflow-hidden">
-            <img src="../static/berita/karnaval-landing.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/berita/karnaval-landing_CjTX06Nh0m.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838116948" class="h-auto w-full rounded-lg object-cover" alt="">
         </div>
         <div>
             
@@ -36,7 +36,7 @@
                     </p>
 
                     <div class="w-full flex flex-col justify-center items-center h-full rounded-lg overflow-hidden">
-                        <img src="../static/berita/karnaval-satu.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+                        <img src="https://ik.imagekit.io/azv7d8ojn/static/berita/karnaval-satu_NrvjPaJKRL.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838121888" class="h-auto w-full rounded-lg object-cover" alt="">
                     </div>
 
                     <p class="indent-10">
@@ -58,7 +58,7 @@
                     </p>
 
                     <div class="w-full flex flex-col justify-center items-center h-full rounded-lg overflow-hidden">
-                        <img src="../static/berita/karnaval-dua.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+                        <img src="https://ik.imagekit.io/azv7d8ojn/static/berita/karnaval-dua_7-q5zeMpKr.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838118304" class="h-auto w-full rounded-lg object-cover" alt="">
                     </div>
 
                     <p class="indent-10">

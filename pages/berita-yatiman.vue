@@ -5,7 +5,7 @@
         />
 
         <div class="w-full h-full flex flex-col justify-center items-center rounded-lg overflow-hidden">
-            <img src="../static/berita/yatiman.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+            <img src="https://ik.imagekit.io/azv7d8ojn/static/berita/yatiman_qR6xm2M3_m.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838107796" class="h-auto w-full rounded-lg object-cover" alt="">
         </div>
         <div>
             
@@ -41,7 +41,7 @@
                     </p>
 
                     <div class="w-full h-full flex flex-col justify-center items-center rounded-lg overflow-hidden">
-                        <img src="../static/berita/yatiman2.jpg" class="h-auto w-full rounded-lg object-cover" alt="">
+                        <img src="https://ik.imagekit.io/azv7d8ojn/static/berita/yatiman2_KKQ2Wz12LB.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838101946" class="h-auto w-full rounded-lg object-cover" alt="">
                     </div>
 
                     <p class="indent-10">
