@@ -152,7 +152,7 @@
       </div>
 
       <!-- Slogan Desa -->
-      <div class="w-full flex pt-8">
+      <!-- <div class="w-full flex pt-8">
         <div class="w-1/4 h-96 px-10 py-10 text-white bg-[#353855] rounded-lg">
 
         </div>
@@ -170,7 +170,7 @@
             <p class="flex justify-end font-semibold text-xl">Pak Bayan - Kepala Dusun Jrakah</p>
           </div>
         </div>
-      </div>
+      </div> -->
 
   </div>
 </template>
