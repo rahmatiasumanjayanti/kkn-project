@@ -1,6 +1,6 @@
 <template>
         <div class="card w-96 h-[30rem] bg-base-100 shadow-sm rounded-md scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
-        <figure><img :src="Gambar" alt="" class="w-96 h-72" /></figure>
+        <figure><img :src="Gambar" alt="" class="w-96 h-[17rem]" /></figure>
             <div class="card-body">
                 <h2 class="card-title">{{Judul}}</h2>
                 <div class="flex items-center gap-2">

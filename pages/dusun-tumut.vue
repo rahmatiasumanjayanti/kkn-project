@@ -122,7 +122,7 @@
                             <div class="flex flex-wrap w-1/3">
                                 <div class="w-full p-1 md:p-2">
                                 <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut4_UqGeGEw6a.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838199985">
+                                    src="https://ik.imagekit.io/azv7d8ojn/static/tumut/tumut2_8t2u4ChF7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838121175">
                                 </div>
                             </div>
                             <div class="flex flex-wrap w-1/3">

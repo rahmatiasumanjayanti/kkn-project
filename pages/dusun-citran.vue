@@ -188,7 +188,7 @@
 
             <div class="flex flex-col justify-end">
                 <p class="flex justify-end text-2xl font-bold">Pak Tumari</p>
-                <p class="flex justify-end font-semibold text-xl">Pak Bayan - Kepala Dusun Jrakah</p>
+                <p class="flex justify-end font-semibold text-xl">Pak Bayan - Kepala Dusun Citran</p>
             </div>
             </div>
         </div>
