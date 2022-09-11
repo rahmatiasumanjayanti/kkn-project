@@ -76,7 +76,7 @@
                         <div class="flex flex-wrap w-1/3">
                             <div class="w-full p-1 md:p-2">
                             <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="/../static/tosari/tosari-card.jpg">
+                                src="https://ik.imagekit.io/azv7d8ojn/static/tosari/tosari-card_M9tILW9Lh.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838151540">
                             </div>
                         </div>
                         <div class="flex flex-wrap w-1/3">
