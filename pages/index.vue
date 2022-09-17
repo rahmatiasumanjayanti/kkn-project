@@ -18,14 +18,14 @@
       </nuxt-link>
     </div>
 
-    <div class="pt-8">
+    <div class="pt-8 ">
       <p class="text-4xl py-10 text-[#353855] font-bold">Dusun di Desa Jrakah</p>
 
       <!-- Carousel -->
-      <div class="carousel carousel-center w-full space-x-7 rounded-box">
+      <div class="flex overscroll-x-contain overflow-x-scroll w-full space-x-7 p-4 rounded-box">
 
         <!-- Citran -->
-        <nuxt-link to="/dusun-citran" class="flex flex-col carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
+        <nuxt-link to="/dusun-citran" class="flex flex-col  carousel-item gap-4 w-1/4 bg-[#353855] rounded-box overflow-hidden scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 animate-shadow">
         <div class="w-full h-80  ">
           <img src="https://ik.imagekit.io/azv7d8ojn/static/citran/citran_igcbiyA9gK.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661838192389" class="w-full h-80" alt="">
         </div>
@@ -113,11 +113,6 @@
             <nuxt-link to="/dusun-bangunrejo" class="flex text-md pb-5 text-white cursor-pointer hover:text-slate-300 font-semibold">Baca lebih lanjut!</nuxt-link>
           </div>
         </nuxt-link>
-
-        <!-- blank -->
-         <div to="/" >
-          
-        </div>
 
       </div>
 
